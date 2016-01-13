@@ -13,7 +13,7 @@ typedef enum {
     ArkWaterflowViewMarginTypeBottom,
     ArkWaterflowViewMarginTypeLeft,
     ArkWaterflowViewMarginTypeRight,
-    ArkWaterflowViewMarginTypeColums,
+    ArkWaterflowViewMarginTypeColumn,
     ArkWaterflowViewMarginTypeRow,
 }ArkWaterflowViewMarginType;
 
